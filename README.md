@@ -15,7 +15,7 @@
 </div>
 
 ---    
-###     ⚡       About Me :
+###     👨‍💻       About Me :
 
 👯 I am looking to collaborate in a Web Development project.
 
@@ -55,10 +55,11 @@
 </div>
 
 <!-- -------------- 📊 My Stats :     ------------------- -->
+---
 
 📊 My Stats :
 
-[![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- 
