@@ -1,4 +1,13 @@
-### Hi there 👋
+    <div id="header" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+        <h1 align="center"> Hi 👋 , I'm Luis Guillen </h1>
+        <h3 align="center">
+            I'm a passionate by Technology, I'm a student in the last semester of the Software Development career, I'm
+            from Quito, I like Web Development, I like to learn from People, I like team work, I'm very dedicated to
+            research, I like play Soccer, I like to listen to music, I like to watch movies, series and anime, I would
+            like to work on Web Development projects.
+        </h3>
+    </div>
 
 <!--
 **Alberthluiiz/Alberthluiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
