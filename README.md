@@ -14,6 +14,17 @@
  <img src="https://img.shields.io/twitter/follow/Alberth_luiiz?color=70b29c&logo=twitter&logoColor=1769ff&style=for-the-badge"/></a>
 </div>
 
+---    
+    About Me :
+
+📝 I regularly take notes of the most important things for my learning, and then put them into practice.
+
+💬 Any advice or help you can give me for my apprenticeship, I would greatly appreciate it.
+
+📫 How to reach me luisguillen290301@gmail.com
+
+🌱 I'm currently learning Laravel, Bootstrap, Node.js
+
 <!--
 **Alberthluiiz/Alberthluiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
