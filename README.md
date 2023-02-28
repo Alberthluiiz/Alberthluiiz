@@ -1,4 +1,4 @@
-    <div id="header" align="center">
+<div id="header" align="center">
         <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
         <h1 align="center"> Hi 👋 , I'm Luis Guillen </h1>
         <h3 align="center">
@@ -8,6 +8,11 @@
             like to work on Web Development projects.
         </h3>
     </div>
+
+<div id="badges" align="center">
+     <a href="https://twitter.com/Alberth_luiiz">
+ <img src="https://img.shields.io/twitter/follow/Alberth_luiiz?color=70b29c&logo=twitter&logoColor=1769ff&style=for-the-badge"/></a>
+</div>
 
 <!--
 **Alberthluiiz/Alberthluiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
