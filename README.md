@@ -15,7 +15,9 @@
 </div>
 
 ---    
-    About Me :
+###     ⚡       About Me :
+
+👯 I am looking to collaborate in a Web Development project.
 
 📝 I regularly take notes of the most important things for my learning, and then put them into practice.
 
