@@ -60,9 +60,7 @@
 
 📊 My Stats :
 
-<div align="center">
-[![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Github](align="center" https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
