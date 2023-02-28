@@ -28,16 +28,33 @@
 🌱 I'm currently learning Laravel, Bootstrap, Node.js
 
 ---
-
+<!-- 🔨 Languages and Tools: -->
 <div align="left">
     <h3> 🔨 Languages and Tools: </h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-        <!-- &nbsp; -->
+        &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS" width="40" height="40"/> 
+        &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="DOCKER" alt="DOCKER" width="40" height="40"/> 
+        &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" alt="GITHUB" width="40" height="40"/> 
+        &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="40" height="40"/> 
+        &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="GIT" alt="GIT" width="40" height="40"/> 
+        &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/> 
+        &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="LARAVEL" alt="LARAVEL" width="40" height="40"/> 
+        &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/> 
+        &nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="UBUNTU" alt="UBUNTU" width="40" height="40"/> 
     </div>
 </div>
 
-<!--
+<!-- 
 **Alberthluiiz/Alberthluiiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
