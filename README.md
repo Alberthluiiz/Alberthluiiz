@@ -29,7 +29,7 @@
 
 ---
 <!-- 🔨 Languages and Tools: -->
-<div align="left">
+<div align="center">
     <h3> 🔨 Languages and Tools: </h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
@@ -59,7 +59,10 @@
 
 📊 My Stats :
 
-[![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+        [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)             [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=alberthluiiz&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 
 <!-- 
