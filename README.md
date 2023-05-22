@@ -10,7 +10,7 @@
     </div>
 
 <div id="badges" align="center">
-     <a href="https://twitter.com/Alberth_luiiz">
+     <a href="https://twitter.com/Alberthluiiz29">
  <img src="https://img.shields.io/twitter/follow/Alberth_luiiz?color=70b29c&logo=twitter&logoColor=1769ff&style=for-the-badge"/></a>
 </div>
 
