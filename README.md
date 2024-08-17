@@ -47,7 +47,7 @@
         &nbsp; -->
         <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MYSQL" alt="MYSQL" width="40" height="40"/> 
         &nbsp; -->
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/> 
+        <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" title="BOOTSTRAP" alt="BOOTSTRAP" width="40" height="40"/>  -->
         &nbsp;
         <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="LARAVEL" alt="LARAVEL" width="40" height="40"/> 
         &nbsp; -->
