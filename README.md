@@ -51,9 +51,9 @@
         &nbsp;
         <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="LARAVEL" alt="LARAVEL" width="40" height="40"/> 
         &nbsp; -->
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/> 
+        <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>  -->
         &nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="UBUNTU" alt="UBUNTU" width="40" height="40"/> 
+        <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="UBUNTU" alt="UBUNTU" width="40" height="40"/>  -->
     </div>
 </div>
 
